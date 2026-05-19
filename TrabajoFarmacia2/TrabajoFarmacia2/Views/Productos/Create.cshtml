@@ -1,0 +1,20 @@
+@model TrabajoFarmacia2.Models.Producto
+
+<h2>Agregar Producto</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.Nombre)
+        @Html.TextBoxFor(m => m.Nombre)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Precio)
+        @Html.TextBoxFor(m => m.Precio)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Stock)
+        @Html.TextBoxFor(m => m.Stock)
+    </div>
+    <button type="submit">Guardar</button>
+}

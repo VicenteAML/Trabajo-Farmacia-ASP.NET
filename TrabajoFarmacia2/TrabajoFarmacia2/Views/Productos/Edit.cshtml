@@ -1,0 +1,24 @@
+@model TrabajoFarmacia2.Models.Producto
+
+<h2>Editar Producto</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.Id)
+
+    <div>
+        @Html.LabelFor(m => m.Nombre)
+        @Html.TextBoxFor(m => m.Nombre)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Precio)
+        @Html.TextBoxFor(m => m.Precio)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Stock)
+        @Html.TextBoxFor(m => m.Stock)
+    </div>
+    <button type="submit">Guardar Cambios</button>
+}
+
+<p>@Html.ActionLink("Volver a la lista", "Index")</p>
