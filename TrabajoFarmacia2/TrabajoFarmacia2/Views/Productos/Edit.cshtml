@@ -1,24 +1,52 @@
-@model TrabajoFarmacia2.Models.Producto
+@model TrabajoFarmacia2.Models.Medicamento
 
-<h2>Editar Producto</h2>
+<h2>Editar Medicamento</h2>
 
 @using (Html.BeginForm())
 {
     @Html.HiddenFor(m => m.Id)
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
-    <div>
-        @Html.LabelFor(m => m.Nombre)
-        @Html.TextBoxFor(m => m.Nombre)
-    </div>
-    <div>
-        @Html.LabelFor(m => m.Precio)
-        @Html.TextBoxFor(m => m.Precio)
-    </div>
-    <div>
-        @Html.LabelFor(m => m.Stock)
-        @Html.TextBoxFor(m => m.Stock)
-    </div>
-    <button type="submit">Guardar Cambios</button>
-}
-
-<p>@Html.ActionLink("Volver a la lista", "Index")</p>
+    <table cellpadding="8">
+        <tr>
+            <td>@Html.LabelFor(m => m.Nombre)</td>
+            <td>@Html.TextBoxFor(m => m.Nombre, new { style = "width: 250px;" })</td>
+            <td>@Html.ValidationMessageFor(m => m.Nombre)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.Precio)</td>
+            <td>@Html.TextBoxFor(m => m.Precio, new { style = "width: 100px;" })</td>
+            <td>@Html.ValidationMessageFor(m => m.Precio)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.Stock)</td>
+            <td>@Html.TextBoxFor(m => m.Stock, new { style = "width: 100px;" })</td>
+            <td>@Html.ValidationMessageFor(m => m.Stock)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.Descripcion)</td>
+            <td>@Html.TextAreaFor(m => m.Descripcion, new { style = "width: 250px; height: 60px;" })</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.FechaVencimiento)</td>
+            <td>@Html.TextBoxFor(m => m.FechaVencimiento, "{0:yyyy-MM-dd}", new { type = "date", style = "width: 150px;" })</td>
+            <td>@Html.ValidationMessageFor(m => m.FechaVencimiento)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.Marca)</td>
+            <td>@Html.TextBoxFor(m => m.Marca, new { style = "width: 200px;" })</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.Laboratorio)</td>
+            <td>@Html.TextBoxFor(m => m.Laboratorio, new { style = "width: 200px;" })</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Guardar Cambios" />
+                @Html.ActionLink("Cancelar", "Index")
+            </td>
+        </tr>
+    </table>}

@@ -1,0 +1,48 @@
+@model TrabajoFarmacia2.Models.Medicamento
+
+<h2>Eliminar Medicamento</h2>
+
+<h3>¿Está seguro que desea eliminar este medicamento?</h3>
+
+<table border="1" cellpadding="8">
+    <tr>
+        <td><strong>ID</strong></td>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <td><strong>Nombre</strong></td>
+        <td>@Model.Nombre</td>
+    </tr>
+    <tr>
+        <td><strong>Precio</strong></td>
+        <td>@Model.Precio.ToString("C")</td>
+    </tr>
+    <tr>
+        <td><strong>Stock</strong></td>
+        <td>@Model.Stock</td>
+    </tr>
+    <tr>
+        <td><strong>Descripción</strong></td>
+        <td>@Model.Descripcion</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha Vencimiento</strong></td>
+        <td>@Model.FechaVencimiento.ToShortDateString()</td>
+    </tr>
+    <tr>
+        <td><strong>Marca</strong></td>
+        <td>@Model.Marca</td>
+    </tr>
+    <tr>
+        <td><strong>Laboratorio</strong></td>
+        <td>@Model.Laboratorio</td>
+    </tr>
+</table>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.Id)
+    <br />
+    <input type="submit" value="Eliminar" style="background-color: red; color: white;" />
+    @Html.ActionLink("Cancelar", "Index")
+}

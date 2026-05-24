@@ -7,6 +7,6 @@ namespace TrabajoFarmacia2.Data
     {
         public ApplicationDbContext() : base("name=DefaultConnection") { }
 
-        public DbSet<Producto> Productos { get; set; }
+        public DbSet<Medicamento> Productos { get; set; }
     }
 }
