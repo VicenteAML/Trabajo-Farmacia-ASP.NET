@@ -1,53 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo farmacia asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\home\\catalogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\home\\catalogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo farmacia asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo farmacia asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo farmacia asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo farmacia asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo farmacia asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\shared\\_layout.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\shared\\_layout.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\shared\\_layout.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo-farmacia-asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo-farmacia-asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo farmacia asp.net\\trabajofarmacia2\\trabajofarmacia2\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo-farmacia-asp.net\\trabajofarmacia2\\trabajofarmacia2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo-farmacia-asp.net\\trabajofarmacia2\\trabajofarmacia2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo-farmacia-asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo-farmacia-asp.net\\trabajofarmacia2\\trabajofarmacia2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\trabajo-farmacia-asp.net\\trabajofarmacia2\\trabajofarmacia2\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\home\\catalogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\home\\catalogo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\trabajofarmacia2\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{157DB4FE-397D-40C9-ADC1-D9FBF0EFFA99}|TrabajoFarmacia2\\TrabajoFarmacia2.csproj|solutionrelative:trabajofarmacia2\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -61,106 +85,191 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Home\\About.cshtml",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TrabajoFarmacia2\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-28T04:21:55.792Z",
+              "WhenOpened": "2026-05-28T04:51:11.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Contacto.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\Contacto.cshtml",
-              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Home\\Contacto.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\Contacto.cshtml",
-              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Home\\Contacto.cshtml",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Web.config",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Web.config",
+              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-28T04:21:54.346Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-28T04:51:02.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Catalogo.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\Catalogo.cshtml",
-              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Home\\Catalogo.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\Catalogo.cshtml",
-              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Home\\Catalogo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-28T04:21:51.974Z",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TrabajoFarmacia2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:47:37.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Productos\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Delete.cshtml",
-              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Productos\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-28T04:21:45.934Z",
+              "WhenOpened": "2026-05-28T04:46:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TrabajoFarmacia2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:45:03.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Usuario.cs",
+              "RelativeToolTip": "TrabajoFarmacia2\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:44:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Catalogo.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\Catalogo.cshtml",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Home\\Catalogo.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\Catalogo.cshtml",
+              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Home\\Catalogo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T04:21:51.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Productos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T04:21:45.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.htm",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Shared\\_Layout.htm",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Shared\\_Layout.htm",
               "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Shared\\_Layout.htm",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Shared\\_Layout.htm",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Shared\\_Layout.htm",
               "RelativeToolTip": "TrabajoFarmacia2\\Views\\Shared\\_Layout.htm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAqwNUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-05-28T03:44:24.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Medicamento.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Medicamento.cs",
               "RelativeDocumentMoniker": "TrabajoFarmacia2\\Models\\Medicamento.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Medicamento.cs",
               "RelativeToolTip": "TrabajoFarmacia2\\Models\\Medicamento.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAA0wDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T03:43:30.254Z",
+              "WhenOpened": "2026-05-28T03:43:30.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "TrabajoFarmacia2\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAmwNIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T00:54:27.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Home\\Contacto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T04:21:54.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TrabajoFarmacia2\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T04:21:55.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Edit.cshtml",
               "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Productos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Edit.cshtml",
               "RelativeToolTip": "TrabajoFarmacia2\\Views\\Productos\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T21:47:07.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T21:47:07.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Create.cshtml",
               "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Productos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Create.cshtml",
               "RelativeToolTip": "TrabajoFarmacia2\\Views\\Productos\\Create.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -169,37 +278,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Index.cshtml",
               "RelativeDocumentMoniker": "TrabajoFarmacia2\\Views\\Productos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Views\\Productos\\Index.cshtml",
               "RelativeToolTip": "TrabajoFarmacia2\\Views\\Productos\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T02:02:15.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T02:02:15.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "TrabajoFarmacia2\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "TrabajoFarmacia2\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T00:54:27.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TrabajoFarmacia2\\Models\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "TrabajoFarmacia2\\Models\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Trabajo ASP.NET bd\\ASP.NET framework\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\Trabajo ASP.NET bd\\ASP.NET framework\\TrabajoFarmacia2\\TrabajoFarmacia2\\Models\\Producto.cs",
@@ -219,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Web.config",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Web.config",
               "RelativeDocumentMoniker": "TrabajoFarmacia2\\Web.config",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo Farmacia ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Web.config",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\Trabajo-Farmacia-ASP.NET\\TrabajoFarmacia2\\TrabajoFarmacia2\\Web.config",
               "RelativeToolTip": "TrabajoFarmacia2\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

@@ -16,6 +16,9 @@ namespace TrabajoFarmacia2.Controllers
         // ─────────────────────────────────────────
         public ActionResult Index()
         {
+            if (Session["UsuarioLogueado"] == null)
+                return RedirectToAction("Login", "Account");
+
             List<Medicamento> medicamentos = new List<Medicamento>();
 
             using (MySqlConnection conn = new MySqlConnection(connectionString))
@@ -51,6 +54,9 @@ namespace TrabajoFarmacia2.Controllers
         // ─────────────────────────────────────────
         public ActionResult Create()
         {
+            if (Session["UsuarioLogueado"] == null)
+                return RedirectToAction("Login", "Account");
+
             return View();
         }
 
@@ -88,6 +94,9 @@ namespace TrabajoFarmacia2.Controllers
         // ─────────────────────────────────────────
         public ActionResult Edit(int id)
         {
+            if (Session["UsuarioLogueado"] == null)
+                return RedirectToAction("Login", "Account");
+
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
                 conn.Open();
@@ -122,6 +131,9 @@ namespace TrabajoFarmacia2.Controllers
         [HttpPost]
         public ActionResult Edit(Medicamento medicamento)
         {
+            if (Session["UsuarioLogueado"] == null)
+                return RedirectToAction("Login", "Account");
+
             if (!ModelState.IsValid)
                 return View(medicamento);
 
@@ -158,6 +170,9 @@ namespace TrabajoFarmacia2.Controllers
         // ─────────────────────────────────────────
         public ActionResult Delete(int id)
         {
+            if (Session["UsuarioLogueado"] == null)
+                return RedirectToAction("Login", "Account");
+
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
                 conn.Open();
@@ -192,6 +207,9 @@ namespace TrabajoFarmacia2.Controllers
         [HttpPost, ActionName("Delete")]
         public ActionResult DeleteConfirmed(int id)
         {
+            if (Session["UsuarioLogueado"] == null)
+                return RedirectToAction("Login", "Account");
+
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
                 conn.Open();

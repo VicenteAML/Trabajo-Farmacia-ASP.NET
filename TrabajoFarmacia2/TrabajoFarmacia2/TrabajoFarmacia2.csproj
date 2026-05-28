@@ -175,6 +175,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductosController.cs" />
     <Compile Include="Global.asax.cs">
@@ -182,6 +183,7 @@
     </Compile>
     <Compile Include="Models\Data\ApplicationDbContext.cs" />
     <Compile Include="Models\Medicamento.cs" />
+    <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -240,6 +242,7 @@
     <Content Include="Views\Productos\Edit.cshtml" />
     <Content Include="Views\Productos\Delete.cshtml" />
     <Content Include="Views\Home\Catalogo.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
