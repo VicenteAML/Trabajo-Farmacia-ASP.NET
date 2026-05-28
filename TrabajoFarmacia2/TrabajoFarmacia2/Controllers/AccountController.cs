@@ -1,4 +1,4 @@
-﻿using System.Web.Mvc;
+using System.Web.Mvc;
 using MySql.Data.MySqlClient;
 using TrabajoFarmacia2.Models;
 
@@ -12,7 +12,6 @@ namespace TrabajoFarmacia2.Controllers
         // GET: Login
         public ActionResult Login()
         {
-            // Si ya esta logueado, redirigir al Index
             if (Session["UsuarioLogueado"] != null)
                 return RedirectToAction("Index", "Productos");
 
@@ -38,19 +37,17 @@ namespace TrabajoFarmacia2.Controllers
                 {
                     if (reader.Read())
                     {
-                        // Login exitoso — guardar en sesion
                         Session["UsuarioLogueado"] = usuario.Username;
                         return RedirectToAction("Index", "Productos");
                     }
                 }
             }
 
-            // Login fallido
             ViewBag.Error = "Usuario o contrasena incorrectos";
             return View(usuario);
         }
 
-        // POST: Logout
+        // Logout
         public ActionResult Logout()
         {
             Session.Clear();

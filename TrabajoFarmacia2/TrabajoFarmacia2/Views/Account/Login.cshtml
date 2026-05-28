@@ -1,33 +1,37 @@
 @model TrabajoFarmacia2.Models.Usuario
 
+@{
+    ViewBag.Title = "Login";
+}
+
 <div class="form-container">
-    <h2>Iniciar Sesion - FarmaSystem</h2>
+    <h2>&#128274; Iniciar Sesion - FarmaSystem</h2>
 
     @if (ViewBag.Error != null)
     {
-        <div class="validation-summary">
+        <div class="validation-summary-errors">
             @ViewBag.Error
         </div>
     }
 
     @using (Html.BeginForm())
     {
-        @Html.ValidationSummary(true, "", new { @class = "validation-summary" })
+        @Html.ValidationSummary(true, "", new { @class = "validation-summary-errors" })
 
         <div class="form-group">
             @Html.LabelFor(m => m.Username, "Usuario")
             @Html.TextBoxFor(m => m.Username, new { @class = "form-control" })
-            @Html.ValidationMessageFor(m => m.Username, "", new { @class = "field-error" })
+            @Html.ValidationMessageFor(m => m.Username, "", new { @class = "field-validation-error" })
         </div>
 
         <div class="form-group">
             @Html.LabelFor(m => m.Password, "Contrasena")
             @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
-            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "field-error" })
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "field-validation-error" })
         </div>
 
-        <div class="form-actions">
-            <input type="submit" value="Ingresar" class="btn-guardar" />
+        <div class="form-group">
+            <input type="submit" value="Ingresar" class="btn" />
         </div>
     }
 </div>

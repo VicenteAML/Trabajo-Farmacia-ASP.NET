@@ -1,10 +1,13 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - FarmaSystem</title>
     <style>
+        .validation-summary-valid {
+            display: none;
+        }
         * {
             margin: 0;
             padding: 0;
@@ -62,6 +65,18 @@
                     background-color: rgba(0,0,0,0.2);
                     color: white;
                     border-bottom: 3px solid #a9d6e5;
+                }
+
+            .navbar .nav-user {
+                margin-left: auto;
+                display: flex;
+                align-items: center;
+            }
+
+                .navbar .nav-user span {
+                    color: rgba(255,255,255,0.85);
+                    padding: 14px 10px;
+                    font-size: 15px;
                 }
 
         /* ===== CONTAINER ===== */
@@ -207,6 +222,16 @@
             background-color: #fff8f8 !important;
         }
 
+        /* ===== LOGIN FORM ===== */
+        .form-container {
+            max-width: 400px;
+            margin: 40px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+        }
+
         /* ===== FOOTER ===== */
         .footer {
             background: linear-gradient(135deg, #014f86, #2c7da0);
@@ -241,6 +266,12 @@
                     padding: 10px 8px;
                 }
 
+                .navbar .nav-user {
+                    width: 100%;
+                    justify-content: center;
+                    margin-left: 0;
+                }
+
             .container {
                 margin: 10px;
                 padding: 15px;
@@ -268,11 +299,23 @@
 <body>
 
     <div class="navbar">
-        <a class="brand" href="@Url.Action("Index", "Home")">💊 Farma<span>System</span></a>
+        <a class="brand" href="@Url.Action("Index", "Home")">&#128138; Farma<span>System</span></a>
         <a href="@Url.Action("Index", "Home")">Inicio</a>
-        <a href="@Url.Action("Catalogo", "Home")">Catálogo</a>
+        <a href="@Url.Action("Catalogo", "Home")">Catalogo</a>
         <a href="@Url.Action("Contacto", "Home")">Contacto</a>
-        <a href="@Url.Action("Index", "Productos")">Administración</a>
+        <a href="@Url.Action("Index", "Productos")">Administracion</a>
+
+        <div class="nav-user">
+            @if (Session["UsuarioLogueado"] != null)
+            {
+                <span>| Hola, @Session["UsuarioLogueado"]</span>
+                <a href="@Url.Action("Logout", "Account")">Cerrar Sesion</a>
+            }
+            else
+            {
+                <a href="@Url.Action("Login", "Account")">Login</a>
+            }
+        </div>
     </div>
 
     <div class="container">
@@ -280,10 +323,10 @@
     </div>
 
     <div class="footer">
-        <p>💊 FarmaSystem &mdash; Sistema de Gestión Web &copy; @DateTime.Now.Year | Desarrollado con <span>♥</span> en ASP.NET</p>
+        <p>&#128138; FarmaSystem &mdash; Sistema de Gestion Web &copy; @DateTime.Now.Year | Desarrollado con <span>&#9829;</span> en ASP.NET</p>
     </div>
 
-    <%-- Scripts necesarios para validación del lado del cliente --%>
+    @* Scripts necesarios para validacion del lado del cliente *@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery-validation-unobtrusive@3.2.12/dist/jquery.validate.unobtrusive.min.js"></script>
