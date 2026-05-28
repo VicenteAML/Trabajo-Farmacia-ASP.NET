@@ -47,3 +47,12 @@ WHERE Nombre = 'Amoxicilina 500mg';
 
 -- 4. Verificar estructura
 DESCRIBE Medicamentos;
+
+CREATE TABLE Usuarios (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Username VARCHAR(50) NOT NULL,
+    Password VARCHAR(100) NOT NULL
+);
+
+-- Usuario admin por defecto
+INSERT INTO Usuarios (Username, Password) VALUES ('admin', 'admin123');
